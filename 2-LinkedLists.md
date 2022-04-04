@@ -4,6 +4,6 @@ What exactly is a linked list? A linked list is another linear data structure ju
 
 In this diagram here, we see how linked lists connect to each other.
 
-[Single Link List](/Pictures/singlelinklist.png)
+![Single Link List](/Pictures/singlelinklist.png)
 
 
