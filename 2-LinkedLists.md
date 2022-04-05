@@ -65,3 +65,7 @@ Linked Lists are fun to work with but are a bit of a challenge too. Here is a ch
 Here is a sample solution to the problem above:
 
 [Linked List Solution](linkedlistsolution.py)
+
+### Home
+
+[Back to Homepage](0-Welcome.md)
