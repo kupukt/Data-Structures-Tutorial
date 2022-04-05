@@ -5,4 +5,4 @@ Data structures are used all throughout programming and are necessary to achive 
 
 * [Stacks](1-Stacks.md)
 * [Linked Lists](2-LinkedLists.md)
-* [Binary Search Trees](3-BinarySearchTrees.md)
+* [Binary Search Trees](3-Trees.md)
